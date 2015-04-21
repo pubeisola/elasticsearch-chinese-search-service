@@ -1,0 +1,11 @@
+[2015-04-20 18:43:45,147][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[28494], build[5e38401/2015-04-09T13:41:35Z]
+[2015-04-20 18:43:45,147][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+[2015-04-20 18:43:45,899][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+[2015-04-20 18:43:52,011][INFO ][node                     ] [elasticsearch_sola_node1] initialized
+[2015-04-20 18:43:52,011][INFO ][node                     ] [elasticsearch_sola_node1] starting ...
+[2015-04-20 18:43:52,215][INFO ][transport                ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9302]}, publish_address {inet[/192.168.11.105:9302]}
+[2015-04-20 18:43:52,265][INFO ][discovery                ] [elasticsearch_sola_node1] elasticsearch_sola/EGnKXsZjQICJNVMwPdsCHg
+[2015-04-20 18:43:56,063][INFO ][cluster.service          ] [elasticsearch_sola_node1] new_master [elasticsearch_sola_node1][EGnKXsZjQICJNVMwPdsCHg][gaofengdeMacBook-Pro.local][inet[/192.168.11.105:9302]]{master=true}, reason: zen-disco-join (elected_as_master)
+[2015-04-20 18:43:56,116][INFO ][http                     ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9202]}, publish_address {inet[/192.168.11.105:9202]}
+[2015-04-20 18:43:56,116][INFO ][node                     ] [elasticsearch_sola_node1] started
+[2015-04-20 18:43:56,166][INFO ][gateway                  ] [elasticsearch_sola_node1] recovered [0] indices into cluster_state

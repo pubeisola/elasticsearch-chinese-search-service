@@ -1,0 +1,176 @@
+STATUS | wrapper  | 2015/04/21 11:19:59 | --> Wrapper Started as Console
+STATUS | wrapper  | 2015/04/21 11:19:59 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2015/04/21 11:19:59 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2015/04/21 11:19:59 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2015/04/21 11:19:59 | 
+STATUS | wrapper  | 2015/04/21 11:19:59 | Launching a JVM...
+INFO   | jvm 1    | 2015/04/21 11:20:00 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2015/04/21 11:20:02 | [2015-04-21 11:20:02,346][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[41040], build[5e38401/2015-04-09T13:41:35Z]
+INFO   | jvm 1    | 2015/04/21 11:20:02 | [2015-04-21 11:20:02,366][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+STATUS | wrapper  | 2015/04/21 11:23:40 | TERM trapped.  Shutting down.
+INFO   | jvm 1    | 2015/04/21 11:23:40 | [2015-04-21 11:23:40,091][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+STATUS | wrapper  | 2015/04/21 11:23:41 | <-- Wrapper Stopped
+STATUS | wrapper  | 2015/04/21 11:25:36 | --> Wrapper Started as Console
+STATUS | wrapper  | 2015/04/21 11:25:36 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2015/04/21 11:25:36 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2015/04/21 11:25:36 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2015/04/21 11:25:36 | 
+STATUS | wrapper  | 2015/04/21 11:25:36 | Launching a JVM...
+INFO   | jvm 1    | 2015/04/21 11:25:36 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2015/04/21 11:25:37 | [2015-04-21 11:25:37,510][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[41841], build[5e38401/2015-04-09T13:41:35Z]
+INFO   | jvm 1    | 2015/04/21 11:25:37 | [2015-04-21 11:25:37,511][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+INFO   | jvm 1    | 2015/04/21 11:25:37 | [2015-04-21 11:25:37,610][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+INFO   | jvm 1    | 2015/04/21 11:25:40 | [2015-04-21 11:25:40,112][INFO ][node                     ] [elasticsearch_sola_node1] initialized
+INFO   | jvm 1    | 2015/04/21 11:25:40 | [2015-04-21 11:25:40,112][INFO ][node                     ] [elasticsearch_sola_node1] starting ...
+INFO   | jvm 1    | 2015/04/21 11:25:40 | [2015-04-21 11:25:40,212][INFO ][transport                ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9302]}, publish_address {inet[/192.168.10.55:9302]}
+INFO   | jvm 1    | 2015/04/21 11:25:40 | [2015-04-21 11:25:40,228][INFO ][discovery                ] [elasticsearch_sola_node1] elasticsearch_sola/B2cuJmkXSS-ytgKkmjZ2ng
+INFO   | jvm 1    | 2015/04/21 11:25:44 | [2015-04-21 11:25:44,000][INFO ][cluster.service          ] [elasticsearch_sola_node1] new_master [elasticsearch_sola_node1][B2cuJmkXSS-ytgKkmjZ2ng][gaofengdeMacBook-Pro.local][inet[/192.168.10.55:9302]]{master=true}, reason: zen-disco-join (elected_as_master)
+INFO   | jvm 1    | 2015/04/21 11:25:44 | [2015-04-21 11:25:44,016][INFO ][http                     ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9202]}, publish_address {inet[/192.168.10.55:9202]}
+INFO   | jvm 1    | 2015/04/21 11:25:44 | [2015-04-21 11:25:44,017][INFO ][node                     ] [elasticsearch_sola_node1] started
+INFO   | jvm 1    | 2015/04/21 11:25:44 | [2015-04-21 11:25:44,026][INFO ][gateway                  ] [elasticsearch_sola_node1] recovered [0] indices into cluster_state
+INFO   | jvm 1    | 2015/04/21 11:52:51 | [2015-04-21 11:52:51,121][INFO ][node                     ] [elasticsearch_sola_node1] stopping ...
+INFO   | jvm 1    | 2015/04/21 11:52:51 | [2015-04-21 11:52:51,181][INFO ][node                     ] [elasticsearch_sola_node1] stopped
+INFO   | jvm 1    | 2015/04/21 11:52:51 | [2015-04-21 11:52:51,181][INFO ][node                     ] [elasticsearch_sola_node1] closing ...
+INFO   | jvm 1    | 2015/04/21 11:52:51 | [2015-04-21 11:52:51,217][INFO ][node                     ] [elasticsearch_sola_node1] closed
+STATUS | wrapper  | 2015/04/21 11:52:51 | <-- Wrapper Stopped
+STATUS | wrapper  | 2015/04/21 11:53:57 | --> Wrapper Started as Console
+STATUS | wrapper  | 2015/04/21 11:53:57 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2015/04/21 11:53:57 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2015/04/21 11:53:57 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2015/04/21 11:53:57 | 
+STATUS | wrapper  | 2015/04/21 11:53:57 | Launching a JVM...
+INFO   | jvm 1    | 2015/04/21 11:53:57 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2015/04/21 11:53:59 | [2015-04-21 11:53:59,405][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[44350], build[5e38401/2015-04-09T13:41:35Z]
+INFO   | jvm 1    | 2015/04/21 11:53:59 | [2015-04-21 11:53:59,405][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+INFO   | jvm 1    | 2015/04/21 11:54:00 | [2015-04-21 11:53:59,962][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+INFO   | jvm 1    | 2015/04/21 11:54:05 | {1.5.1}: Initialization Failed ...
+INFO   | jvm 1    | 2015/04/21 11:54:05 | 1) IllegalArgumentException[argument type mismatch]
+STATUS | wrapper  | 2015/04/21 11:54:07 | <-- Wrapper Stopped
+STATUS | wrapper  | 2015/04/21 11:56:07 | --> Wrapper Started as Console
+STATUS | wrapper  | 2015/04/21 11:56:07 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2015/04/21 11:56:07 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2015/04/21 11:56:07 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2015/04/21 11:56:07 | 
+STATUS | wrapper  | 2015/04/21 11:56:07 | Launching a JVM...
+INFO   | jvm 1    | 2015/04/21 11:56:07 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2015/04/21 11:56:08 | [2015-04-21 11:56:08,580][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[44599], build[5e38401/2015-04-09T13:41:35Z]
+INFO   | jvm 1    | 2015/04/21 11:56:08 | [2015-04-21 11:56:08,580][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+INFO   | jvm 1    | 2015/04/21 11:56:08 | [2015-04-21 11:56:08,676][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+INFO   | jvm 1    | 2015/04/21 11:56:11 | {1.5.1}: Initialization Failed ...
+INFO   | jvm 1    | 2015/04/21 11:56:11 | 1) IllegalArgumentException[argument type mismatch]
+STATUS | wrapper  | 2015/04/21 11:56:13 | <-- Wrapper Stopped
+STATUS | wrapper  | 2015/04/21 11:56:33 | --> Wrapper Started as Console
+STATUS | wrapper  | 2015/04/21 11:56:33 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2015/04/21 11:56:33 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2015/04/21 11:56:33 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2015/04/21 11:56:33 | 
+STATUS | wrapper  | 2015/04/21 11:56:33 | Launching a JVM...
+INFO   | jvm 1    | 2015/04/21 11:56:33 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2015/04/21 11:56:34 | [2015-04-21 11:56:34,366][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[44693], build[5e38401/2015-04-09T13:41:35Z]
+INFO   | jvm 1    | 2015/04/21 11:56:34 | [2015-04-21 11:56:34,367][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+INFO   | jvm 1    | 2015/04/21 11:56:34 | [2015-04-21 11:56:34,462][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+INFO   | jvm 1    | 2015/04/21 11:56:37 | [2015-04-21 11:56:36,967][INFO ][node                     ] [elasticsearch_sola_node1] initialized
+INFO   | jvm 1    | 2015/04/21 11:56:37 | [2015-04-21 11:56:36,967][INFO ][node                     ] [elasticsearch_sola_node1] starting ...
+INFO   | jvm 1    | 2015/04/21 11:56:37 | [2015-04-21 11:56:37,134][INFO ][transport                ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9302]}, publish_address {inet[/192.168.10.55:9302]}
+INFO   | jvm 1    | 2015/04/21 11:56:37 | [2015-04-21 11:56:37,167][INFO ][discovery                ] [elasticsearch_sola_node1] elasticsearch_sola/d50vtHp6Sk6I_3pEHt104w
+INFO   | jvm 1    | 2015/04/21 11:56:41 | [2015-04-21 11:56:41,288][INFO ][cluster.service          ] [elasticsearch_sola_node1] new_master [elasticsearch_sola_node1][d50vtHp6Sk6I_3pEHt104w][gaofengdeMacBook-Pro.local][inet[/192.168.10.55:9302]]{master=true}, reason: zen-disco-join (elected_as_master)
+INFO   | jvm 1    | 2015/04/21 11:56:41 | [2015-04-21 11:56:41,332][INFO ][http                     ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9202]}, publish_address {inet[/192.168.10.55:9202]}
+INFO   | jvm 1    | 2015/04/21 11:56:41 | [2015-04-21 11:56:41,332][INFO ][node                     ] [elasticsearch_sola_node1] started
+INFO   | jvm 1    | 2015/04/21 11:56:41 | [2015-04-21 11:56:41,347][INFO ][gateway                  ] [elasticsearch_sola_node1] recovered [0] indices into cluster_state
+WARN   | wrapper  | 2015/04/21 11:57:21 | JVM process was stopped.  It will be killed if the ping timeout expires.
+INFO   | jvm 1    | 2015/04/21 11:57:23 | [2015-04-21 11:57:23,269][INFO ][node                     ] [elasticsearch_sola_node1] stopping ...
+INFO   | jvm 1    | 2015/04/21 11:57:23 | [2015-04-21 11:57:23,285][INFO ][node                     ] [elasticsearch_sola_node1] stopped
+INFO   | jvm 1    | 2015/04/21 11:57:23 | [2015-04-21 11:57:23,285][INFO ][node                     ] [elasticsearch_sola_node1] closing ...
+INFO   | jvm 1    | 2015/04/21 11:57:23 | [2015-04-21 11:57:23,290][INFO ][node                     ] [elasticsearch_sola_node1] closed
+STATUS | wrapper  | 2015/04/21 11:57:23 | <-- Wrapper Stopped
+STATUS | wrapper  | 2015/04/21 11:58:30 | --> Wrapper Started as Console
+STATUS | wrapper  | 2015/04/21 11:58:30 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2015/04/21 11:58:30 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2015/04/21 11:58:30 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2015/04/21 11:58:30 | 
+STATUS | wrapper  | 2015/04/21 11:58:30 | Launching a JVM...
+INFO   | jvm 1    | 2015/04/21 11:58:30 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2015/04/21 11:58:31 | [2015-04-21 11:58:31,802][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[44981], build[5e38401/2015-04-09T13:41:35Z]
+INFO   | jvm 1    | 2015/04/21 11:58:31 | [2015-04-21 11:58:31,802][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+INFO   | jvm 1    | 2015/04/21 11:58:31 | [2015-04-21 11:58:31,900][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+INFO   | jvm 1    | 2015/04/21 11:58:34 | {1.5.1}: Initialization Failed ...
+INFO   | jvm 1    | 2015/04/21 11:58:34 | 1) IllegalArgumentException[argument type mismatch]
+STATUS | wrapper  | 2015/04/21 11:58:36 | <-- Wrapper Stopped
+STATUS | wrapper  | 2015/04/21 12:00:22 | --> Wrapper Started as Console
+STATUS | wrapper  | 2015/04/21 12:00:22 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2015/04/21 12:00:22 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2015/04/21 12:00:22 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2015/04/21 12:00:22 | 
+STATUS | wrapper  | 2015/04/21 12:00:22 | Launching a JVM...
+INFO   | jvm 1    | 2015/04/21 12:00:22 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2015/04/21 12:00:23 | {1.5.1}: Setup Failed ...
+INFO   | jvm 1    | 2015/04/21 12:00:23 | - SettingsException[Failed to load settings from [file:/Volumes/juan2/search/elasticsearch-1.5.1/config/elasticsearch.yml]]
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	ScannerException[while scanning a simple key; could not found expected ':';  in 'reader', line 810, column 1:
+INFO   | jvm 1    | 2015/04/21 12:00:23 |     sonian.elasticsearch.http.jetty: 
+INFO   | jvm 1    | 2015/04/21 12:00:23 |     ^]
+INFO   | jvm 1    | 2015/04/21 12:00:23 | org.elasticsearch.common.settings.SettingsException: Failed to load settings from [file:/Volumes/juan2/search/elasticsearch-1.5.1/config/elasticsearch.yml]
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.settings.ImmutableSettings$Builder.loadFromStream(ImmutableSettings.java:985)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.settings.ImmutableSettings$Builder.loadFromUrl(ImmutableSettings.java:969)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.node.internal.InternalSettingsPreparer.prepareSettings(InternalSettingsPreparer.java:77)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.bootstrap.Bootstrap.initialSettings(Bootstrap.java:112)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:183)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at java.lang.reflect.Method.invoke(Method.java:606)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at java.lang.Thread.run(Thread.java:745)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | Caused by: while scanning a simple key
+INFO   | jvm 1    | 2015/04/21 12:00:23 |  in 'reader', line 809, column 1:
+INFO   | jvm 1    | 2015/04/21 12:00:23 |     http.type:com.sonian.elasticsear ... 
+INFO   | jvm 1    | 2015/04/21 12:00:23 |     ^
+INFO   | jvm 1    | 2015/04/21 12:00:23 | could not found expected ':'
+INFO   | jvm 1    | 2015/04/21 12:00:23 |  in 'reader', line 810, column 1:
+INFO   | jvm 1    | 2015/04/21 12:00:23 |     sonian.elasticsearch.http.jetty: 
+INFO   | jvm 1    | 2015/04/21 12:00:23 |     ^
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.jackson.dataformat.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:465)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.jackson.dataformat.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:280)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.jackson.dataformat.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:225)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.jackson.dataformat.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.jackson.dataformat.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.jackson.dataformat.yaml.snakeyaml.parser.ParserImpl.getEvent(ParserImpl.java:168)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.jackson.dataformat.yaml.YAMLParser.nextToken(YAMLParser.java:331)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.xcontent.json.JsonXContentParser.nextToken(JsonXContentParser.java:51)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.settings.loader.XContentSettingsLoader.serializeObject(XContentSettingsLoader.java:78)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.settings.loader.XContentSettingsLoader.serializeObject(XContentSettingsLoader.java:80)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.settings.loader.XContentSettingsLoader.serializeObject(XContentSettingsLoader.java:80)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.settings.loader.XContentSettingsLoader.load(XContentSettingsLoader.java:67)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.settings.loader.XContentSettingsLoader.load(XContentSettingsLoader.java:45)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.settings.loader.YamlSettingsLoader.load(YamlSettingsLoader.java:46)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	at org.elasticsearch.common.settings.ImmutableSettings$Builder.loadFromStream(ImmutableSettings.java:982)
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 	... 11 more
+INFO   | jvm 1    | 2015/04/21 12:00:23 | 
+STATUS | wrapper  | 2015/04/21 12:00:25 | <-- Wrapper Stopped
+STATUS | wrapper  | 2015/04/21 12:01:16 | --> Wrapper Started as Console
+STATUS | wrapper  | 2015/04/21 12:01:16 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2015/04/21 12:01:16 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2015/04/21 12:01:16 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2015/04/21 12:01:16 | 
+STATUS | wrapper  | 2015/04/21 12:01:16 | Launching a JVM...
+INFO   | jvm 1    | 2015/04/21 12:01:16 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2015/04/21 12:01:17 | [2015-04-21 12:01:17,527][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[45340], build[5e38401/2015-04-09T13:41:35Z]
+INFO   | jvm 1    | 2015/04/21 12:01:17 | [2015-04-21 12:01:17,527][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+INFO   | jvm 1    | 2015/04/21 12:01:17 | [2015-04-21 12:01:17,620][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+INFO   | jvm 1    | 2015/04/21 12:01:20 | {1.5.1}: Initialization Failed ...
+INFO   | jvm 1    | 2015/04/21 12:01:20 | 1) IllegalArgumentException[argument type mismatch]
+STATUS | wrapper  | 2015/04/21 12:01:22 | <-- Wrapper Stopped
+STATUS | wrapper  | 2015/04/21 12:07:19 | --> Wrapper Started as Console
+STATUS | wrapper  | 2015/04/21 12:07:19 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2015/04/21 12:07:19 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2015/04/21 12:07:19 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2015/04/21 12:07:19 | 
+STATUS | wrapper  | 2015/04/21 12:07:19 | Launching a JVM...
+INFO   | jvm 1    | 2015/04/21 12:07:20 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2015/04/21 12:07:22 | [2015-04-21 12:07:22,080][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[45920], build[5e38401/2015-04-09T13:41:35Z]
+INFO   | jvm 1    | 2015/04/21 12:07:22 | [2015-04-21 12:07:22,090][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+INFO   | jvm 1    | 2015/04/21 12:07:22 | [2015-04-21 12:07:22,858][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+INFO   | jvm 1    | 2015/04/21 12:07:28 | {1.5.1}: Initialization Failed ...
+INFO   | jvm 1    | 2015/04/21 12:07:28 | 1) IllegalArgumentException[argument type mismatch]
+STATUS | wrapper  | 2015/04/21 12:07:31 | <-- Wrapper Stopped

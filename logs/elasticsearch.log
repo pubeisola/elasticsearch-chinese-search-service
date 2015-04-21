@@ -1,0 +1,15 @@
+[2015-04-20 18:22:53,822][INFO ][node                     ] [Karolina Dean] version[1.5.1], pid[26673], build[5e38401/2015-04-09T13:41:35Z]
+[2015-04-20 18:22:53,823][INFO ][node                     ] [Karolina Dean] initializing ...
+[2015-04-20 18:22:53,839][INFO ][plugins                  ] [Karolina Dean] loaded [], sites []
+[2015-04-20 18:22:59,867][INFO ][node                     ] [Karolina Dean] initialized
+[2015-04-20 18:22:59,867][INFO ][node                     ] [Karolina Dean] starting ...
+[2015-04-20 18:23:00,039][INFO ][transport                ] [Karolina Dean] bound_address {inet[/0:0:0:0:0:0:0:0:9302]}, publish_address {inet[/192.168.11.105:9302]}
+[2015-04-20 18:23:00,086][INFO ][discovery                ] [Karolina Dean] elasticsearch/MtcjQ0RCQmWKtu_6UWpPWQ
+[2015-04-20 18:23:03,918][INFO ][cluster.service          ] [Karolina Dean] new_master [Karolina Dean][MtcjQ0RCQmWKtu_6UWpPWQ][gaofengdeMacBook-Pro.local][inet[/192.168.11.105:9302]], reason: zen-disco-join (elected_as_master)
+[2015-04-20 18:23:03,964][INFO ][http                     ] [Karolina Dean] bound_address {inet[/0:0:0:0:0:0:0:0:9202]}, publish_address {inet[/192.168.11.105:9202]}
+[2015-04-20 18:23:03,964][INFO ][node                     ] [Karolina Dean] started
+[2015-04-20 18:23:04,021][INFO ][gateway                  ] [Karolina Dean] recovered [0] indices into cluster_state
+[2015-04-20 18:23:09,549][INFO ][node                     ] [Karolina Dean] stopping ...
+[2015-04-20 18:23:09,600][INFO ][node                     ] [Karolina Dean] stopped
+[2015-04-20 18:23:09,601][INFO ][node                     ] [Karolina Dean] closing ...
+[2015-04-20 18:23:09,607][INFO ][node                     ] [Karolina Dean] closed
