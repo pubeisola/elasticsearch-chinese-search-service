@@ -1,48 +1,276 @@
-[2015-04-21 11:20:02,346][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[41040], build[5e38401/2015-04-09T13:41:35Z]
-[2015-04-21 11:20:02,366][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
-[2015-04-21 11:23:22,037][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[41410], build[5e38401/2015-04-09T13:41:35Z]
-[2015-04-21 11:23:22,037][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
-[2015-04-21 11:23:22,831][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
-[2015-04-21 11:23:28,910][INFO ][node                     ] [elasticsearch_sola_node1] initialized
-[2015-04-21 11:23:28,911][INFO ][node                     ] [elasticsearch_sola_node1] starting ...
-[2015-04-21 11:23:29,052][INFO ][transport                ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9302]}, publish_address {inet[/192.168.10.55:9302]}
-[2015-04-21 11:23:29,095][INFO ][discovery                ] [elasticsearch_sola_node1] elasticsearch_sola/wCAQHY-7SG2Eh1DHN95REA
-[2015-04-21 11:23:33,231][INFO ][cluster.service          ] [elasticsearch_sola_node1] new_master [elasticsearch_sola_node1][wCAQHY-7SG2Eh1DHN95REA][gaofengdeMacBook-Pro.local][inet[/192.168.10.55:9302]]{master=true}, reason: zen-disco-join (elected_as_master)
-[2015-04-21 11:23:33,282][INFO ][http                     ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9202]}, publish_address {inet[/192.168.10.55:9202]}
-[2015-04-21 11:23:33,282][INFO ][node                     ] [elasticsearch_sola_node1] started
-[2015-04-21 11:23:33,297][INFO ][gateway                  ] [elasticsearch_sola_node1] recovered [0] indices into cluster_state
-[2015-04-21 11:23:40,059][INFO ][node                     ] [elasticsearch_sola_node1] stopping ...
-[2015-04-21 11:23:40,091][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
-[2015-04-21 11:23:40,417][INFO ][node                     ] [elasticsearch_sola_node1] stopped
-[2015-04-21 11:23:40,417][INFO ][node                     ] [elasticsearch_sola_node1] closing ...
-[2015-04-21 11:23:40,423][INFO ][node                     ] [elasticsearch_sola_node1] closed
-[2015-04-21 11:25:37,510][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[41841], build[5e38401/2015-04-09T13:41:35Z]
-[2015-04-21 11:25:37,511][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
-[2015-04-21 11:25:37,610][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
-[2015-04-21 11:25:40,112][INFO ][node                     ] [elasticsearch_sola_node1] initialized
-[2015-04-21 11:25:40,112][INFO ][node                     ] [elasticsearch_sola_node1] starting ...
-[2015-04-21 11:25:40,212][INFO ][transport                ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9302]}, publish_address {inet[/192.168.10.55:9302]}
-[2015-04-21 11:25:40,228][INFO ][discovery                ] [elasticsearch_sola_node1] elasticsearch_sola/B2cuJmkXSS-ytgKkmjZ2ng
-[2015-04-21 11:25:44,000][INFO ][cluster.service          ] [elasticsearch_sola_node1] new_master [elasticsearch_sola_node1][B2cuJmkXSS-ytgKkmjZ2ng][gaofengdeMacBook-Pro.local][inet[/192.168.10.55:9302]]{master=true}, reason: zen-disco-join (elected_as_master)
-[2015-04-21 11:25:44,016][INFO ][http                     ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9202]}, publish_address {inet[/192.168.10.55:9202]}
-[2015-04-21 11:25:44,017][INFO ][node                     ] [elasticsearch_sola_node1] started
-[2015-04-21 11:25:44,026][INFO ][gateway                  ] [elasticsearch_sola_node1] recovered [0] indices into cluster_state
-[2015-04-21 11:52:51,121][INFO ][node                     ] [elasticsearch_sola_node1] stopping ...
-[2015-04-21 11:52:51,181][INFO ][node                     ] [elasticsearch_sola_node1] stopped
-[2015-04-21 11:52:51,181][INFO ][node                     ] [elasticsearch_sola_node1] closing ...
-[2015-04-21 11:52:51,217][INFO ][node                     ] [elasticsearch_sola_node1] closed
-[2015-04-21 11:53:59,405][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[44350], build[5e38401/2015-04-09T13:41:35Z]
-[2015-04-21 11:53:59,405][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
-[2015-04-21 11:53:59,962][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
-[2015-04-21 11:54:05,715][ERROR][bootstrap                ] Exception
-org.elasticsearch.common.inject.CreationException: Guice creation errors:
-
-1) Error in custom provider, java.lang.IllegalArgumentException: argument type mismatch
-  while locating org.elasticsearch.http.HttpServer
-
-1 error
-	at org.elasticsearch.common.inject.internal.Errors.throwCreationExceptionIfErrorsExist(Errors.java:344)
-	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:178)
+[2015-04-24 10:12:09,982][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[862], build[5e38401/2015-04-09T13:41:35Z]
+[2015-04-24 10:12:09,984][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+[2015-04-24 10:12:11,213][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, lang-javascript, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+[2015-04-24 10:12:18,048][INFO ][node                     ] [elasticsearch_sola_node1] initialized
+[2015-04-24 10:12:18,049][INFO ][node                     ] [elasticsearch_sola_node1] starting ...
+[2015-04-24 10:12:18,352][INFO ][transport                ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.10.55:9300]}
+[2015-04-24 10:12:18,417][INFO ][discovery                ] [elasticsearch_sola_node1] elasticsearch_sola/hn7bNndHRja_M9xP674Yvw
+[2015-04-24 10:12:22,220][INFO ][cluster.service          ] [elasticsearch_sola_node1] new_master [elasticsearch_sola_node1][hn7bNndHRja_M9xP674Yvw][gaofengdeMacBook-Pro.local][inet[/192.168.10.55:9300]]{master=true}, reason: zen-disco-join (elected_as_master)
+[2015-04-24 10:12:22,261][INFO ][http                     ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.10.55:9200]}
+[2015-04-24 10:12:22,261][INFO ][node                     ] [elasticsearch_sola_node1] started
+[2015-04-24 10:12:23,140][INFO ][mmseg-analyzer           ] chars loaded time=115ms, line=14861, on file=chars.dic
+[2015-04-24 10:12:23,142][INFO ][mmseg-analyzer           ] words loaded time=0ms, line=3, on file=words-my.dic
+[2015-04-24 10:12:24,529][INFO ][mmseg-analyzer           ] words loaded time=1387ms, line=1197432, on file=words.dic
+[2015-04-24 10:12:24,529][INFO ][mmseg-analyzer           ] load all dic use time=1504ms
+[2015-04-24 10:12:24,550][INFO ][mmseg-analyzer           ] unit loaded time=21ms, line=205, on file=units.dic
+[2015-04-24 10:12:26,068][INFO ][ansj-analyzer            ] ansj分词器预热完毕，可以使用!
+[2015-04-24 10:12:26,068][INFO ][ansj-analyzer            ] 没有找到redis相关配置!
+[2015-04-24 10:12:26,839][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/mydict.dic
+[2015-04-24 10:12:26,840][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/single_word_low_freq.dic
+[2015-04-24 10:12:26,852][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/sougou.dic
+[2015-04-24 10:12:27,788][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/bendimingxing.dic
+[2015-04-24 10:12:27,809][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/buchong.dic
+[2015-04-24 10:12:27,809][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/cehui.dic
+[2015-04-24 10:12:27,834][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/chengyu.dic
+[2015-04-24 10:12:27,836][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/chengyusuyu.dic
+[2015-04-24 10:12:27,837][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/dianzixue.dic
+[2015-04-24 10:12:27,844][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/diming.dic
+[2015-04-24 10:12:27,851][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/dizhixue.dic
+[2015-04-24 10:12:27,856][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/fojiaocihui.dic
+[2015-04-24 10:12:27,861][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/guowaimingxing.dic
+[2015-04-24 10:12:27,862][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/haiyangkexue.dic
+[2015-04-24 10:12:27,865][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/huaxue.dic
+[2015-04-24 10:12:27,868][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/jianzhuchengshi.dic
+[2015-04-24 10:12:27,873][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/jinyongrenming.dic
+[2015-04-24 10:12:27,876][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/jisuanjimingci.dic
+[2015-04-24 10:12:27,914][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/jixiechuanye.dic
+[2015-04-24 10:12:27,915][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/jixiegongcheng.dic
+[2015-04-24 10:12:27,921][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/lishimingren.dic
+[2015-04-24 10:12:27,923][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/majiangci.dic
+[2015-04-24 10:12:27,924][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/nongyexue.dic
+[2015-04-24 10:12:27,929][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/shengwu.dic
+[2015-04-24 10:12:27,931][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/shengwuwuli.dic
+[2015-04-24 10:12:27,933][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/shicizuozhe.dic
+[2015-04-24 10:12:27,936][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/shuxue.dic
+[2015-04-24 10:12:27,946][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/tangshisongci.dic
+[2015-04-24 10:12:27,989][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/tianwen.dic
+[2015-04-24 10:12:27,993][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/wuli.dic
+[2015-04-24 10:12:27,996][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/xinlixue.dic
+[2015-04-24 10:12:28,000][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/xiyoujirenwu.dic
+[2015-04-24 10:12:28,001][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/yejin.dic
+[2015-04-24 10:12:28,007][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/yixue.dic
+[2015-04-24 10:12:28,019][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/zhongyaocai.dic
+[2015-04-24 10:12:28,021][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/zuijinliuxingyu.dic
+[2015-04-24 10:12:28,022][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/zuqiumingxing.dic
+[2015-04-24 10:12:28,038][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/ext_stopword.dic
+[2015-04-24 10:12:29,231][INFO ][gateway                  ] [elasticsearch_sola_node1] recovered [2] indices into cluster_state
+[2015-04-24 10:12:29,405][WARN ][indices.cluster          ] [elasticsearch_sola_node1] [[a_words_library_b][0]] marking and sending shard failed due to [failed recovery]
+org.elasticsearch.index.gateway.IndexShardGatewayRecoveryException: [a_words_library_b][0] failed to recover shard
+	at org.elasticsearch.index.gateway.local.LocalIndexShardGateway.recover(LocalIndexShardGateway.java:290)
+	at org.elasticsearch.index.gateway.IndexShardGatewayService$1.run(IndexShardGatewayService.java:112)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.translog.TranslogCorruptedException: Translog header corrupted
+	at org.elasticsearch.index.translog.TranslogStreams.translogStreamFor(TranslogStreams.java:145)
+	at org.elasticsearch.index.gateway.local.LocalIndexShardGateway.recover(LocalIndexShardGateway.java:244)
+	... 4 more
+Caused by: org.apache.lucene.index.CorruptIndexException: codec mismatch: actual codec=state vs expected codec=translog (resource: org.apache.lucene.store.InputStreamDataInput@6d2a591d)
+	at org.apache.lucene.codecs.CodecUtil.checkHeaderNoMagic(CodecUtil.java:148)
+	at org.elasticsearch.index.translog.TranslogStreams.translogStreamFor(TranslogStreams.java:132)
+	... 5 more
+[2015-04-24 10:12:29,426][WARN ][cluster.action.shard     ] [elasticsearch_sola_node1] [a_words_library_b][0] received shard failed for [a_words_library_b][0], node[hn7bNndHRja_M9xP674Yvw], [P], s[INITIALIZING], indexUUID [lVfCyp9hQSa3WkuOvGOeeA], reason [shard failure [failed recovery][IndexShardGatewayRecoveryException[[a_words_library_b][0] failed to recover shard]; nested: TranslogCorruptedException[Translog header corrupted]; nested: CorruptIndexException[codec mismatch: actual codec=state vs expected codec=translog (resource: org.apache.lucene.store.InputStreamDataInput@6d2a591d)]; ]]
+[2015-04-24 10:12:29,428][WARN ][gateway.local            ] [elasticsearch_sola_node1] [a_words_library_b][0]: failed to list shard state on node [hn7bNndHRja_M9xP674Yvw]
+org.elasticsearch.action.FailedNodeException: Failed node [hn7bNndHRja_M9xP674Yvw]
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction.onFailure(TransportNodesOperationAction.java:206)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction.access$1000(TransportNodesOperationAction.java:97)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction$2.run(TransportNodesOperationAction.java:143)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.ElasticsearchException: failed to load started shards
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:129)
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:49)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction$2.run(TransportNodesOperationAction.java:141)
+	... 3 more
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardInfo(LocalGatewayShardsState.java:76)
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:121)
+	... 5 more
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 8 more
+[2015-04-24 10:12:29,452][WARN ][indices.cluster          ] [elasticsearch_sola_node1] [[a_words_library_a][0]] marking and sending shard failed due to [failed recovery]
+org.elasticsearch.index.gateway.IndexShardGatewayRecoveryException: [a_words_library_a][0] failed to recover shard
+	at org.elasticsearch.index.gateway.local.LocalIndexShardGateway.recover(LocalIndexShardGateway.java:290)
+	at org.elasticsearch.index.gateway.IndexShardGatewayService$1.run(IndexShardGatewayService.java:112)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.translog.TranslogCorruptedException: Translog header corrupted
+	at org.elasticsearch.index.translog.TranslogStreams.translogStreamFor(TranslogStreams.java:145)
+	at org.elasticsearch.index.gateway.local.LocalIndexShardGateway.recover(LocalIndexShardGateway.java:244)
+	... 4 more
+Caused by: org.apache.lucene.index.CorruptIndexException: codec mismatch: actual codec=state vs expected codec=translog (resource: org.apache.lucene.store.InputStreamDataInput@170e74e6)
+	at org.apache.lucene.codecs.CodecUtil.checkHeaderNoMagic(CodecUtil.java:148)
+	at org.elasticsearch.index.translog.TranslogStreams.translogStreamFor(TranslogStreams.java:132)
+	... 5 more
+[2015-04-24 10:12:29,452][WARN ][cluster.action.shard     ] [elasticsearch_sola_node1] [a_words_library_a][0] received shard failed for [a_words_library_a][0], node[hn7bNndHRja_M9xP674Yvw], [P], s[INITIALIZING], indexUUID [IzPP0xYMQsuE57zQso1ujA], reason [shard failure [failed recovery][IndexShardGatewayRecoveryException[[a_words_library_a][0] failed to recover shard]; nested: TranslogCorruptedException[Translog header corrupted]; nested: CorruptIndexException[codec mismatch: actual codec=state vs expected codec=translog (resource: org.apache.lucene.store.InputStreamDataInput@170e74e6)]; ]]
+[2015-04-24 10:12:29,454][WARN ][gateway.local            ] [elasticsearch_sola_node1] [a_words_library_b][0]: failed to list shard state on node [hn7bNndHRja_M9xP674Yvw]
+org.elasticsearch.action.FailedNodeException: Failed node [hn7bNndHRja_M9xP674Yvw]
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction.onFailure(TransportNodesOperationAction.java:206)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction.access$1000(TransportNodesOperationAction.java:97)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction$2.run(TransportNodesOperationAction.java:143)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.ElasticsearchException: failed to load started shards
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:129)
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:49)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction$2.run(TransportNodesOperationAction.java:141)
+	... 3 more
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardInfo(LocalGatewayShardsState.java:76)
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:121)
+	... 5 more
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 8 more
+[2015-04-24 10:12:29,455][WARN ][gateway.local            ] [elasticsearch_sola_node1] [a_words_library_a][0]: failed to list shard state on node [hn7bNndHRja_M9xP674Yvw]
+org.elasticsearch.action.FailedNodeException: Failed node [hn7bNndHRja_M9xP674Yvw]
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction.onFailure(TransportNodesOperationAction.java:206)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction.access$1000(TransportNodesOperationAction.java:97)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction$2.run(TransportNodesOperationAction.java:143)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.ElasticsearchException: failed to load started shards
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:129)
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:49)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction$2.run(TransportNodesOperationAction.java:141)
+	... 3 more
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_a/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardInfo(LocalGatewayShardsState.java:76)
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:121)
+	... 5 more
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_a/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 8 more
+[2015-04-24 10:12:32,223][WARN ][gateway.local            ] [elasticsearch_sola_node1] [a_words_library_a][0]: failed to list shard state on node [hn7bNndHRja_M9xP674Yvw]
+org.elasticsearch.action.FailedNodeException: Failed node [hn7bNndHRja_M9xP674Yvw]
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction.onFailure(TransportNodesOperationAction.java:206)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction.access$1000(TransportNodesOperationAction.java:97)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction$2.run(TransportNodesOperationAction.java:143)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.ElasticsearchException: failed to load started shards
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:129)
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:49)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction$2.run(TransportNodesOperationAction.java:141)
+	... 3 more
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_a/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardInfo(LocalGatewayShardsState.java:76)
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:121)
+	... 5 more
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_a/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 8 more
+[2015-04-24 10:12:32,225][WARN ][gateway.local            ] [elasticsearch_sola_node1] [a_words_library_b][0]: failed to list shard state on node [hn7bNndHRja_M9xP674Yvw]
+org.elasticsearch.action.FailedNodeException: Failed node [hn7bNndHRja_M9xP674Yvw]
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction.onFailure(TransportNodesOperationAction.java:206)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction.access$1000(TransportNodesOperationAction.java:97)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction$2.run(TransportNodesOperationAction.java:143)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.ElasticsearchException: failed to load started shards
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:129)
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:49)
+	at org.elasticsearch.action.support.nodes.TransportNodesOperationAction$AsyncAction$2.run(TransportNodesOperationAction.java:141)
+	... 3 more
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardInfo(LocalGatewayShardsState.java:76)
+	at org.elasticsearch.gateway.local.state.shards.TransportNodesListGatewayStartedShards.nodeOperation(TransportNodesListGatewayStartedShards.java:121)
+	... 5 more
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 8 more
+[2015-04-24 10:32:04,945][INFO ][node                     ] [elasticsearch_sola_node1] stopping ...
+[2015-04-24 10:32:05,138][INFO ][node                     ] [elasticsearch_sola_node1] stopped
+[2015-04-24 10:32:05,138][INFO ][node                     ] [elasticsearch_sola_node1] closing ...
+[2015-04-24 10:32:05,142][INFO ][node                     ] [elasticsearch_sola_node1] closed
+[2015-04-24 10:32:33,570][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[2626], build[5e38401/2015-04-09T13:41:35Z]
+[2015-04-24 10:32:33,571][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+[2015-04-24 10:32:33,659][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, lang-javascript, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+[2015-04-24 10:32:36,104][ERROR][gateway.local.state.shards] [elasticsearch_sola_node1] failed to read local state (started shards), exiting...
+org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.FactoryProxy.get(FactoryProxy.java:52)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
+	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
 	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
 	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
 	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
@@ -58,7 +286,76 @@ org.elasticsearch.common.inject.CreationException: Guice creation errors:
 	at java.lang.reflect.Method.invoke(Method.java:606)
 	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
 	at java.lang.Thread.run(Thread.java:745)
-Caused by: java.lang.IllegalArgumentException: argument type mismatch
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 54 more
+[2015-04-24 10:32:36,148][ERROR][gateway.local.state.shards] [elasticsearch_sola_node1] failed to read local state (started shards), exiting...
+org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.FactoryProxy.get(FactoryProxy.java:52)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
+	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
+	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
+	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
+	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
+	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
+	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
+	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 45 more
+[2015-04-24 10:32:36,150][ERROR][gateway.local.state.shards] [elasticsearch_sola_node1] failed to read local state (started shards), exiting...
+org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -76,19 +373,6 @@ Caused by: java.lang.IllegalArgumentException: argument type mismatch
 	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
 	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
 	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
-	... 15 more
-[2015-04-21 11:56:08,580][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[44599], build[5e38401/2015-04-09T13:41:35Z]
-[2015-04-21 11:56:08,580][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
-[2015-04-21 11:56:08,676][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
-[2015-04-21 11:56:11,137][ERROR][bootstrap                ] Exception
-org.elasticsearch.common.inject.CreationException: Guice creation errors:
-
-1) Error in custom provider, java.lang.IllegalArgumentException: argument type mismatch
-  while locating org.elasticsearch.http.HttpServer
-
-1 error
-	at org.elasticsearch.common.inject.internal.Errors.throwCreationExceptionIfErrorsExist(Errors.java:344)
-	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:178)
 	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
 	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
 	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
@@ -104,7 +388,160 @@ org.elasticsearch.common.inject.CreationException: Guice creation errors:
 	at java.lang.reflect.Method.invoke(Method.java:606)
 	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
 	at java.lang.Thread.run(Thread.java:745)
-Caused by: java.lang.IllegalArgumentException: argument type mismatch
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 35 more
+[2015-04-24 10:32:36,156][ERROR][bootstrap                ] Exception
+org.elasticsearch.common.inject.CreationException: Guice creation errors:
+
+1) Error injecting constructor, org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+  at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState
+    for parameter 3 at org.elasticsearch.gateway.local.LocalGateway.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.local.LocalGateway
+  while locating org.elasticsearch.gateway.Gateway
+    for parameter 1 at org.elasticsearch.gateway.GatewayService.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.GatewayService
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.FactoryProxy.get(FactoryProxy.java:52)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
+	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
+	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
+	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
+	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
+	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
+	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
+	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 54 more
+
+2) Error injecting constructor, org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+  at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState
+    for parameter 3 at org.elasticsearch.gateway.local.LocalGateway.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.local.LocalGateway
+  while locating org.elasticsearch.gateway.Gateway
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.FactoryProxy.get(FactoryProxy.java:52)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
+	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
+	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
+	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
+	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
+	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
+	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
+	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 45 more
+
+3) Error injecting constructor, org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+  at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -122,32 +559,30 @@ Caused by: java.lang.IllegalArgumentException: argument type mismatch
 	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
 	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
 	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
-	... 15 more
-[2015-04-21 11:56:34,366][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[44693], build[5e38401/2015-04-09T13:41:35Z]
-[2015-04-21 11:56:34,367][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
-[2015-04-21 11:56:34,462][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
-[2015-04-21 11:56:36,967][INFO ][node                     ] [elasticsearch_sola_node1] initialized
-[2015-04-21 11:56:36,967][INFO ][node                     ] [elasticsearch_sola_node1] starting ...
-[2015-04-21 11:56:37,134][INFO ][transport                ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9302]}, publish_address {inet[/192.168.10.55:9302]}
-[2015-04-21 11:56:37,167][INFO ][discovery                ] [elasticsearch_sola_node1] elasticsearch_sola/d50vtHp6Sk6I_3pEHt104w
-[2015-04-21 11:56:41,288][INFO ][cluster.service          ] [elasticsearch_sola_node1] new_master [elasticsearch_sola_node1][d50vtHp6Sk6I_3pEHt104w][gaofengdeMacBook-Pro.local][inet[/192.168.10.55:9302]]{master=true}, reason: zen-disco-join (elected_as_master)
-[2015-04-21 11:56:41,332][INFO ][http                     ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9202]}, publish_address {inet[/192.168.10.55:9202]}
-[2015-04-21 11:56:41,332][INFO ][node                     ] [elasticsearch_sola_node1] started
-[2015-04-21 11:56:41,347][INFO ][gateway                  ] [elasticsearch_sola_node1] recovered [0] indices into cluster_state
-[2015-04-21 11:57:23,269][INFO ][node                     ] [elasticsearch_sola_node1] stopping ...
-[2015-04-21 11:57:23,285][INFO ][node                     ] [elasticsearch_sola_node1] stopped
-[2015-04-21 11:57:23,285][INFO ][node                     ] [elasticsearch_sola_node1] closing ...
-[2015-04-21 11:57:23,290][INFO ][node                     ] [elasticsearch_sola_node1] closed
-[2015-04-21 11:58:31,802][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[44981], build[5e38401/2015-04-09T13:41:35Z]
-[2015-04-21 11:58:31,802][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
-[2015-04-21 11:58:31,900][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
-[2015-04-21 11:58:34,517][ERROR][bootstrap                ] Exception
-org.elasticsearch.common.inject.CreationException: Guice creation errors:
+	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
+	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
+	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
+	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
+	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
+	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 35 more
 
-1) Error in custom provider, java.lang.IllegalArgumentException: argument type mismatch
-  while locating org.elasticsearch.http.HttpServer
-
-1 error
+3 errors
 	at org.elasticsearch.common.inject.internal.Errors.throwCreationExceptionIfErrorsExist(Errors.java:344)
 	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:178)
 	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
@@ -165,7 +600,137 @@ org.elasticsearch.common.inject.CreationException: Guice creation errors:
 	at java.lang.reflect.Method.invoke(Method.java:606)
 	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
 	at java.lang.Thread.run(Thread.java:745)
-Caused by: java.lang.IllegalArgumentException: argument type mismatch
+[2015-04-24 10:33:12,914][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[2736], build[5e38401/2015-04-09T13:41:35Z]
+[2015-04-24 10:33:12,914][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+[2015-04-24 10:33:12,999][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, lang-javascript, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+[2015-04-24 10:33:15,439][ERROR][gateway.local.state.shards] [elasticsearch_sola_node1] failed to read local state (started shards), exiting...
+org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.FactoryProxy.get(FactoryProxy.java:52)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
+	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
+	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
+	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
+	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
+	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
+	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
+	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 54 more
+[2015-04-24 10:33:15,482][ERROR][gateway.local.state.shards] [elasticsearch_sola_node1] failed to read local state (started shards), exiting...
+org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.FactoryProxy.get(FactoryProxy.java:52)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
+	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
+	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
+	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
+	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
+	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
+	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
+	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 45 more
+[2015-04-24 10:33:15,484][ERROR][gateway.local.state.shards] [elasticsearch_sola_node1] failed to read local state (started shards), exiting...
+org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -183,17 +748,216 @@ Caused by: java.lang.IllegalArgumentException: argument type mismatch
 	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
 	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
 	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
-	... 15 more
-[2015-04-21 12:01:17,527][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[45340], build[5e38401/2015-04-09T13:41:35Z]
-[2015-04-21 12:01:17,527][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
-[2015-04-21 12:01:17,620][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
-[2015-04-21 12:01:20,055][ERROR][bootstrap                ] Exception
+	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
+	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
+	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
+	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
+	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
+	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 35 more
+[2015-04-24 10:33:15,490][ERROR][bootstrap                ] Exception
 org.elasticsearch.common.inject.CreationException: Guice creation errors:
 
-1) Error in custom provider, java.lang.IllegalArgumentException: argument type mismatch
-  while locating org.elasticsearch.http.HttpServer
+1) Error injecting constructor, org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+  at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState
+    for parameter 3 at org.elasticsearch.gateway.local.LocalGateway.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.local.LocalGateway
+  while locating org.elasticsearch.gateway.Gateway
+    for parameter 1 at org.elasticsearch.gateway.GatewayService.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.GatewayService
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.FactoryProxy.get(FactoryProxy.java:52)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
+	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
+	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
+	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
+	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
+	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
+	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
+	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 54 more
 
-1 error
+2) Error injecting constructor, org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+  at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState
+    for parameter 3 at org.elasticsearch.gateway.local.LocalGateway.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.local.LocalGateway
+  while locating org.elasticsearch.gateway.Gateway
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.SingleParameterInjector.inject(SingleParameterInjector.java:42)
+	at org.elasticsearch.common.inject.SingleParameterInjector.getAll(SingleParameterInjector.java:66)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:85)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.FactoryProxy.get(FactoryProxy.java:52)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
+	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
+	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
+	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
+	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
+	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
+	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
+	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 45 more
+
+3) Error injecting constructor, org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+  at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(Unknown Source)
+  while locating org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState
+Caused by: org.elasticsearch.ElasticsearchException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.elasticsearch.ExceptionsHelper.maybeThrowRuntimeAndSuppress(ExceptionsHelper.java:153)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:297)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardStateInfo(LocalGatewayShardsState.java:188)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.loadShardsStateInfo(LocalGatewayShardsState.java:173)
+	at org.elasticsearch.gateway.local.state.shards.LocalGatewayShardsState.<init>(LocalGatewayShardsState.java:66)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
+	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
+	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
+	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
+	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
+	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
+	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
+	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
+	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
+	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
+	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
+	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
+	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
+	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
+	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
+	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.gateway.local.state.meta.CorruptStateException: codec footer mismatch: actual footer=-680782072 vs expected footer=-1071082520 (resource: BufferedChecksumIndexInput(SimpleFSIndexInput(path="/Volumes/juan2/search/elasticsearch-1.5.1/data/elasticsearch_sola/nodes/0/indices/a_words_library_b/0/_state/state-1.st")))
+	at org.apache.lucene.codecs.CodecUtil.validateFooter(CodecUtil.java:235)
+	at org.apache.lucene.codecs.CodecUtil.checkFooter(CodecUtil.java:207)
+	at org.apache.lucene.codecs.CodecUtil.checksumEntireFile(CodecUtil.java:268)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.read(MetaDataStateFormat.java:168)
+	at org.elasticsearch.gateway.local.state.meta.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:287)
+	... 35 more
+
+3 errors
 	at org.elasticsearch.common.inject.internal.Errors.throwCreationExceptionIfErrorsExist(Errors.java:344)
 	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:178)
 	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
@@ -211,68 +975,474 @@ org.elasticsearch.common.inject.CreationException: Guice creation errors:
 	at java.lang.reflect.Method.invoke(Method.java:606)
 	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
 	at java.lang.Thread.run(Thread.java:745)
-Caused by: java.lang.IllegalArgumentException: argument type mismatch
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
-	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
-	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
-	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
-	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
-	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
-	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
-	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
-	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
-	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
-	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
-	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
-	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
-	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
-	... 15 more
-[2015-04-21 12:07:22,080][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[45920], build[5e38401/2015-04-09T13:41:35Z]
-[2015-04-21 12:07:22,090][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
-[2015-04-21 12:07:22,858][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
-[2015-04-21 12:07:28,865][ERROR][bootstrap                ] Exception
-org.elasticsearch.common.inject.CreationException: Guice creation errors:
-
-1) Error in custom provider, java.lang.IllegalArgumentException: argument type mismatch
-  while locating org.elasticsearch.http.HttpServer
-
-1 error
-	at org.elasticsearch.common.inject.internal.Errors.throwCreationExceptionIfErrorsExist(Errors.java:344)
-	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:178)
-	at org.elasticsearch.common.inject.InjectorBuilder.build(InjectorBuilder.java:110)
-	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:93)
-	at org.elasticsearch.common.inject.Guice.createInjector(Guice.java:70)
-	at org.elasticsearch.common.inject.ModulesBuilder.createInjector(ModulesBuilder.java:59)
-	at org.elasticsearch.node.internal.InternalNode.<init>(InternalNode.java:203)
-	at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:159)
-	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:70)
-	at org.elasticsearch.bootstrap.Bootstrap.main(Bootstrap.java:213)
-	at org.elasticsearch.bootstrap.ElasticsearchF.main(ElasticsearchF.java:34)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:606)
-	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:290)
+[2015-04-24 10:34:55,526][INFO ][node                     ] [elasticsearch_sola_node1] version[1.5.1], pid[2942], build[5e38401/2015-04-09T13:41:35Z]
+[2015-04-24 10:34:55,526][INFO ][node                     ] [elasticsearch_sola_node1] initializing ...
+[2015-04-24 10:34:55,610][INFO ][plugins                  ] [elasticsearch_sola_node1] loaded [analysis-mmseg, analysis-pinyin, mapper-attachments, analysis-ik, analysis-combo, analysis-ansj, jetty, analysis-string2int, lang-javascript, analysis-stconvert], sites [bigdesk, head, hq, inquisitor, kopf, oob, paramedic, segmentspy]
+[2015-04-24 10:34:58,091][INFO ][node                     ] [elasticsearch_sola_node1] initialized
+[2015-04-24 10:34:58,092][INFO ][node                     ] [elasticsearch_sola_node1] starting ...
+[2015-04-24 10:34:58,189][INFO ][transport                ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.10.55:9300]}
+[2015-04-24 10:34:58,204][INFO ][discovery                ] [elasticsearch_sola_node1] elasticsearch_sola/oATTcjJZQ7WcgjaSoYKokw
+[2015-04-24 10:35:01,986][INFO ][cluster.service          ] [elasticsearch_sola_node1] new_master [elasticsearch_sola_node1][oATTcjJZQ7WcgjaSoYKokw][gaofengdeMacBook-Pro.local][inet[/192.168.10.55:9300]]{master=true}, reason: zen-disco-join (elected_as_master)
+[2015-04-24 10:35:02,003][INFO ][http                     ] [elasticsearch_sola_node1] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.10.55:9200]}
+[2015-04-24 10:35:02,003][INFO ][node                     ] [elasticsearch_sola_node1] started
+[2015-04-24 10:35:02,077][INFO ][gateway                  ] [elasticsearch_sola_node1] recovered [0] indices into cluster_state
+[2015-04-24 10:39:13,867][INFO ][mmseg-analyzer           ] chars loaded time=94ms, line=14861, on file=chars.dic
+[2015-04-24 10:39:13,869][INFO ][mmseg-analyzer           ] words loaded time=1ms, line=3, on file=words-my.dic
+[2015-04-24 10:39:15,104][INFO ][mmseg-analyzer           ] words loaded time=1235ms, line=1197432, on file=words.dic
+[2015-04-24 10:39:15,104][INFO ][mmseg-analyzer           ] load all dic use time=1331ms
+[2015-04-24 10:39:15,105][INFO ][mmseg-analyzer           ] unit loaded time=1ms, line=205, on file=units.dic
+[2015-04-24 10:39:16,477][INFO ][ansj-analyzer            ] ansj分词器预热完毕，可以使用!
+[2015-04-24 10:39:16,477][INFO ][ansj-analyzer            ] 没有找到redis相关配置!
+[2015-04-24 10:39:17,053][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/mydict.dic
+[2015-04-24 10:39:17,053][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/single_word_low_freq.dic
+[2015-04-24 10:39:17,055][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/sougou.dic
+[2015-04-24 10:39:17,687][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/bendimingxing.dic
+[2015-04-24 10:39:17,688][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/buchong.dic
+[2015-04-24 10:39:17,688][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/cehui.dic
+[2015-04-24 10:39:17,691][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/chengyu.dic
+[2015-04-24 10:39:17,692][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/chengyusuyu.dic
+[2015-04-24 10:39:17,693][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/dianzixue.dic
+[2015-04-24 10:39:17,699][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/diming.dic
+[2015-04-24 10:39:17,703][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/dizhixue.dic
+[2015-04-24 10:39:17,707][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/fojiaocihui.dic
+[2015-04-24 10:39:17,711][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/guowaimingxing.dic
+[2015-04-24 10:39:17,712][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/haiyangkexue.dic
+[2015-04-24 10:39:17,714][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/huaxue.dic
+[2015-04-24 10:39:17,716][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/jianzhuchengshi.dic
+[2015-04-24 10:39:17,719][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/jinyongrenming.dic
+[2015-04-24 10:39:17,720][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/jisuanjimingci.dic
+[2015-04-24 10:39:17,727][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/jixiechuanye.dic
+[2015-04-24 10:39:17,727][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/jixiegongcheng.dic
+[2015-04-24 10:39:17,730][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/lishimingren.dic
+[2015-04-24 10:39:17,731][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/majiangci.dic
+[2015-04-24 10:39:17,731][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/nongyexue.dic
+[2015-04-24 10:39:17,734][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/shengwu.dic
+[2015-04-24 10:39:17,735][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/shengwuwuli.dic
+[2015-04-24 10:39:17,735][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/shicizuozhe.dic
+[2015-04-24 10:39:17,737][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/shuxue.dic
+[2015-04-24 10:39:17,743][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/tangshisongci.dic
+[2015-04-24 10:39:17,762][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/tianwen.dic
+[2015-04-24 10:39:17,764][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/wuli.dic
+[2015-04-24 10:39:17,766][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/xinlixue.dic
+[2015-04-24 10:39:17,768][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/xiyoujirenwu.dic
+[2015-04-24 10:39:17,769][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/yejin.dic
+[2015-04-24 10:39:17,773][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/yixue.dic
+[2015-04-24 10:39:17,781][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/zhongyaocai.dic
+[2015-04-24 10:39:17,782][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/zuijinliuxingyu.dic
+[2015-04-24 10:39:17,782][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/zuqiumingxing.dic
+[2015-04-24 10:39:17,783][INFO ][ik-analyzer              ] [Dict Loading]ik/custom/ext_stopword.dic
+[2015-04-24 10:39:18,034][INFO ][cluster.metadata         ] [elasticsearch_sola_node1] [a_words_library_a] creating index, cause [api], templates [], shards [1]/[0], mappings [a_words_library_a]
+[2015-04-24 10:39:18,951][INFO ][cluster.metadata         ] [elasticsearch_sola_node1] [a_words_library_b] creating index, cause [api], templates [], shards [1]/[0], mappings [a_words_library_b]
+[2015-04-24 10:39:19,721][INFO ][cluster.metadata         ] [elasticsearch_sola_node1] [a_words_library_a] deleting index
+[2015-04-24 10:39:19,748][INFO ][cluster.metadata         ] [elasticsearch_sola_node1] [a_words_library_b] deleting index
+[2015-04-24 10:39:19,932][INFO ][cluster.metadata         ] [elasticsearch_sola_node1] [a_words_library_a] creating index, cause [api], templates [], shards [1]/[0], mappings [a_words_library_a]
+[2015-04-24 10:39:20,287][INFO ][cluster.metadata         ] [elasticsearch_sola_node1] [a_words_library_b] creating index, cause [api], templates [], shards [1]/[0], mappings [a_words_library_b]
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x5f7c5088, /192.168.10.55:50415 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
 	at java.lang.Thread.run(Thread.java:745)
-Caused by: java.lang.IllegalArgumentException: argument type mismatch
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
-	at org.elasticsearch.common.inject.DefaultConstructionProxyFactory$1.newInstance(DefaultConstructionProxyFactory.java:54)
-	at org.elasticsearch.common.inject.ConstructorInjector.construct(ConstructorInjector.java:86)
-	at org.elasticsearch.common.inject.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:98)
-	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:45)
-	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:837)
-	at org.elasticsearch.common.inject.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:42)
-	at org.elasticsearch.common.inject.Scopes$1$1.get(Scopes.java:57)
-	at org.elasticsearch.common.inject.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45)
-	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:200)
-	at org.elasticsearch.common.inject.InjectorBuilder$1.call(InjectorBuilder.java:193)
-	at org.elasticsearch.common.inject.InjectorImpl.callInContext(InjectorImpl.java:830)
-	at org.elasticsearch.common.inject.InjectorBuilder.loadEagerSingletons(InjectorBuilder.java:193)
-	at org.elasticsearch.common.inject.InjectorBuilder.injectDynamically(InjectorBuilder.java:175)
-	... 15 more
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x011f2665, /192.168.10.55:50413 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0xb679c488, /192.168.10.55:50422 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0xa0f5b184, /192.168.10.55:50422 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x8040716c, /192.168.10.55:50424 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x5c350811, /192.168.10.55:50421 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x15548bdd, /192.168.10.55:50412 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x1d208a3e, /192.168.10.55:50414 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x16e499f6, /192.168.10.55:50413 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0xa7fdc0f7, /192.168.10.55:50414 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x40001374, /192.168.10.55:50412 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0xb8625188, /192.168.10.55:50416 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x64e542cc, /192.168.10.55:50424 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0xed9ed15f, /192.168.10.55:50417 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x5d4aedc7, /192.168.10.55:50416 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x08dabe72, /192.168.10.55:50421 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x2060126f, /192.168.10.55:50423 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x1737df82, /192.168.10.55:50423 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x2f5eccab, /192.168.10.55:50417 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,173][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x56c12efc, /192.168.10.55:50415 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:55,673][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x293f6314, /192.168.10.55:50418 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:56,786][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0xd55fc68b, /192.168.10.55:50419 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:11:58,512][WARN ][transport.netty          ] [elasticsearch_sola_node1] exception caught on transport layer [[id: 0x0cfe3bb2, /192.168.10.55:50420 => /192.168.10.55:9300]], closing connection
+java.io.IOException: Operation timed out
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:64)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-04-24 14:15:55,200][WARN ][cluster.service          ] [elasticsearch_sola_node1] failed to reconnect to node [elasticsearch_sola_node1][oATTcjJZQ7WcgjaSoYKokw][gaofengdeMacBook-Pro.local][inet[/192.168.10.55:9300]]{master=true}
+org.elasticsearch.transport.ConnectTransportException: [elasticsearch_sola_node1][inet[/192.168.10.55:9300]] connect_timeout[30s]
+	at org.elasticsearch.transport.netty.NettyTransport.connectToChannels(NettyTransport.java:797)
+	at org.elasticsearch.transport.netty.NettyTransport.connectToNode(NettyTransport.java:731)
+	at org.elasticsearch.transport.netty.NettyTransport.connectToNode(NettyTransport.java:704)
+	at org.elasticsearch.transport.TransportService.connectToNode(TransportService.java:216)
+	at org.elasticsearch.cluster.service.InternalClusterService$ReconnectToNodes.run(InternalClusterService.java:562)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.common.netty.channel.ConnectTimeoutException: connection timed out: /192.168.10.55:9300
+	at org.elasticsearch.common.netty.channel.socket.nio.NioClientBoss.processConnectTimeout(NioClientBoss.java:139)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:83)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	... 3 more
